@@ -6,11 +6,14 @@ The 'netflix_data' schema has each table having a 'show_id' column that acts as 
 In this project, I have leveraged the netflix_data database schema to create a comprehensive visualization using PowerBI, as depicted in the attached figure.
 ![Screenshot 2024-02-25 200555](https://github.com/roniantoniius/Dashboard-Analysis-Data-Movie-at-Netflix--PowerBI/assets/121453378/75d2005f-be1f-48ec-9929-2e175c1fda57)
 
+#### Business Understanding
 The business understanding phase involved identifying key metrics and trends that are critical to analyzing Netflix's content strategy, including the volume and diversity of shows/movies added over time, popular genres, and global availability.
 
+#### Data Understanding
 In the data understanding phase, I carefully examined each column in the schema to gain insights into the type and quality of data available. This helped me identify patterns, anomalies and potential relationships between different data elements.
 
-During data preparation, I cleaned and transformed the raw data to make it suitable for analysis. I ensured consistency in format, addressed missing values, and created calculated fields to gain additional insights.
+#### Data cleaning
+During data cleaning, I cleaned and transformed the raw data to make it suitable for analysis. I ensured consistency in format, addressed missing values, and created calculated fields to gain additional insights.
 
 The last step is data visualization where we use PowerBI to create interactive visualizations that offer insights at once. We have a line graph showing the trend of added shows by date; a bar graph distinguishing between Movies & TV Shows; a horizontal bar graph displaying the top 10 genres; and a world map highlighting the countries where these shows are available. 
 
